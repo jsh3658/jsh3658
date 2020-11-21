@@ -12,4 +12,4 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lovejang0915@gmail.com)](mailto:lovejang0915@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/seonho.jang1)](https://www.facebook.com/seonho.jang1)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seonho-jang-460685176)](https://www.linkedin.com/in/seonho-jang-460685176)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seonho-jang-460685176)](https://www.linkedin.com/in/seonho-jang-460685176){:target="\_blank"}
