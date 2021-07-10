@@ -1,4 +1,8 @@
-👋 Hello, My name is Jang Seon ho, I am User Interface engineer
+<p align="center">👋 Hello, My name is Jang Seon ho, I am User Interface engineer.<br/>
+I want to UX enginner. I would like to interactive and animated development.<br/>
+And now I am studying canvas, svg, webgl, etc.<br/>
+(It's difficult for webgl... First of all, the canvas!!)
+</p>
 
 ### :running: Career
 
